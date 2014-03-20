@@ -1,0 +1,18 @@
+<NotepadPlus>
+    <Project name="HitBoxer">
+        <Folder name="animations" />
+        <Folder name="images" />
+        <File name="hitboxer" />
+        <File name="init.config" />
+        <File name="main.lua" />
+        <File name="externalFileHandler.lua" />
+        <File name="internalFileHandler.lua" />
+        <File name="imageBatchView.lua" />
+        <File name="newAnimationView.lua" />
+        <File name="mainView.lua" />
+        <File name="animationEditorView.lua" />
+        <File name="spriteView.lua" />
+        <File name="hitboxes.lua" />
+        <File name="uimanager.lua" />
+    </Project>
+</NotepadPlus>
